@@ -6,7 +6,7 @@
   * [Motivation](#motivation)
   * [Algorithms Used](#Algorithms Used)
 ## Demo
-Link : [ https://email-spam-classi.herokuapp.com/ ]<br>
+Link : <a href="https://email-spam-classi.herokuapp.com/">Click Here</a><br>
 <img src="image.png">
 ## Overview
 This is a Streamlit web app which predicts whether a E-mail/SMS is spam or not.
