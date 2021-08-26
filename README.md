@@ -4,7 +4,8 @@
   * [Demo](#demo)
   * [Overview](#overview)
   * [Motivation](#motivation)
-  * [Algorithms Used](#Algorithms Used)
+  * [Algorithms Used](#Algorithms-Used)
+  * [Future scope of project](#future-scope)
 ## Demo
 Link : <a href="https://email-spam-classi.herokuapp.com/">Click Here</a><br>
 <img src="image.png">
@@ -24,3 +25,9 @@ What to do when you are at home due to this pandemic situation? I started to lea
 * Word2Vec
 * Machine Learning algorithms like Naive Bayes,Decision Tree,XgBoost etc.
 * TfidfVectorizer
+
+## Future Scope
+
+* Use NLP models like Bert,DistillBert,GPT etc.
+* Optimize app.py
+* Front-End 
